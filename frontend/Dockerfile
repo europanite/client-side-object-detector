@@ -1,11 +1,11 @@
-FROM node:24-bookworm-slim
+FROM node:22-bookworm-slim
 
 WORKDIR /app
 
-COPY package*.json ./
+COPY app/package*.json ./
 RUN npm install --legacy-peer-deps
 
-COPY . .
+COPY app/ ./
 RUN npm run typecheck
 RUN npm run build:web
 

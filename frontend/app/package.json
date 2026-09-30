@@ -1,5 +1,5 @@
 {
-  "name": "car-bbox-detector",
+  "name": "client-side-object-detector",
   "version": "1.0.0",
   "private": true,
   "main": "index.ts",

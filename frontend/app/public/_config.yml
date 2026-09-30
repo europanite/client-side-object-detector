@@ -1,4 +1,4 @@
 title: "client-side-object-detector"
-description: "Browser-only car detection with TensorFlow.js and Expo Web."
+description: "Browser-only object detection with TensorFlow.js, COCO-SSD, local images, and local webcams."
 baseurl: "/client-side-object-detector"
 url: "https://europanite.github.io"

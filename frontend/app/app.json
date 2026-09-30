@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "client-side-object-detector",
-    "slug": "car-bbox-detector",
+    "slug": "client-side-object-detector",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",

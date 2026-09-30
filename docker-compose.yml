@@ -1,6 +1,8 @@
 services:
   frontend:
+    container_name: frontend
     build:
       context: ./frontend
+      dockerfile: Dockerfile
     ports:
       - "8081:8081"

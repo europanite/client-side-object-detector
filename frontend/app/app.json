@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "client-side-object-detector",
+    "slug": "car-bbox-detector",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "experiments": {
+      "baseUrl": "/car_bbox_detector"
+    },
+    "web": {
+      "output": "single",
+      "bundler": "metro"
+    }
+  }
+}

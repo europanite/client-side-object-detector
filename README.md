@@ -71,7 +71,7 @@ Then open the URL printed by Expo.
 
 ## Docker Compose
 
-The Docker image uses a **single Node.js stage**. Expo Web is built during the image build, and a small Node.js static server serves the exported `dist/` directory under `/car_bbox_detector/`. No nginx image or multi-stage build is used.
+The Docker image uses a **single Node.js stage**. Expo Web is built during the image build, and a small Node.js static server serves the exported `dist/` directory under `/client-side-object-detector/`. No nginx image or multi-stage build is used.
 
 ```bash
 docker compose up --build

@@ -7,7 +7,7 @@
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "experiments": {
-      "baseUrl": "/car_bbox_detector"
+      "baseUrl": "/client-side-object-detector"
     },
     "web": {
       "output": "single",

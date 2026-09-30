@@ -4,7 +4,7 @@ import { extname, join, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = fileURLToPath(new URL('./dist/', import.meta.url));
-const BASE_PATH = '/car_bbox_detector';
+const BASE_PATH = '/client-side-object-detector';
 const PORT = Number(process.env.PORT || 8080);
 
 const MIME_TYPES = {

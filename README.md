@@ -1,4 +1,12 @@
-# [Client-Side-Object-Detector](https://github.com/europanite/client-side-object-detector "Client-Side-Object-Detector)
+# [Client-Side-Object-Detector](https://github.com/europanite/client-side-object-detector "Client-Side-Object-Detector")
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 A frontend-only Expo Web application that detects **COCO object classes** from either a local image or a local webcam, draws bounding boxes, counts detections, and exports source coordinates as JSON.
 

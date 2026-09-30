@@ -9,5 +9,5 @@ COPY . .
 RUN npm run typecheck
 RUN npm run build:web
 
-EXPOSE 8080
+EXPOSE 8081
 CMD ["node", "server.mjs"]

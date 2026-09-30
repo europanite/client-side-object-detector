@@ -1,6 +1,6 @@
 services:
   frontend:
     build:
-      context: ./frontend/app
+      context: ./frontend
     ports:
-      - "8080:8080"
+      - "8081:8081"
